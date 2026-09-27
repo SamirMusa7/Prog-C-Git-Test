@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("Hola, Món!\n");
+    printf("Hola desde Windows!\n");
     return 0;
 }
